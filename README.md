@@ -24,8 +24,12 @@ Example: [Live Demo](https://yourusername.github.io/todo-list/)
 ## 🛠️ Tech Stack
 
 - **HTML** – for structure  
-- **CSS** – for styling and layout  
-- **JavaScript** – for dynamic functionality and task management
+- **CSS** – for styling and layout
+-  **JavaScript** – for dynamic functionality and task management
+
+  ![image](https://github.com/user-attachments/assets/1c9be09b-db4d-4630-b906-7cd229f1dcdc)
+
+
 
 ---
 
